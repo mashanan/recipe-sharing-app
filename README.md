@@ -8,7 +8,7 @@
 
 | Beranda | Detail Resep | Favorit |
 |:---:|:---:|:---:|
-| ![Uploading image.png…]()
+ | <img width="746" height="1600" alt="image" src="https://github.com/user-attachments/assets/d43d2f7e-c291-4db0-afe5-ddb9dc513f06" />
  | <img width="746" height="1600" alt="image" src="https://github.com/user-attachments/assets/e01560a7-5f9d-4bc7-8a8f-7a938bf5f878" />
  | <img width="746" height="1600" alt="image" src="https://github.com/user-attachments/assets/e24d8a53-e6ed-4c1c-9628-904abc855033" />
  |
