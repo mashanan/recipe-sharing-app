@@ -8,7 +8,10 @@
 
 | Beranda | Detail Resep | Favorit |
 |:---:|:---:|:---:|
-| *(Tambahkan gambar/mockup beranda di sini)* | *(Tambahkan gambar detail resep di sini)* | *(Tambahkan gambar daftar favorit di sini)* |
+| ![Uploading image.png…]()
+ | <img width="746" height="1600" alt="image" src="https://github.com/user-attachments/assets/e01560a7-5f9d-4bc7-8a8f-7a938bf5f878" />
+ | <img width="746" height="1600" alt="image" src="https://github.com/user-attachments/assets/e24d8a53-e6ed-4c1c-9628-904abc855033" />
+ |
 
 ---
 
@@ -18,7 +21,6 @@
 * **📋 Langkah Memasak Interaktif:** Panduan memasak langkah-demi-langkah yang rinci lengkap dengan estimasi waktu dan porsi.
 * **❤️ Favorit & Koleksi:** Simpan resep favorit Anda agar dapat diakses kembali dengan cepat.
 * **🏷️ Filter Kategori:** Kelompokkan resep berdasarkan jenis hidangan (Makanan Utama, Camilan, Minuman, dll.).
-* **🌙 Mode Gelap & Terang:** Dukungan antarmuka responsif sesuai preferensi pengguna.
 
 ---
 
